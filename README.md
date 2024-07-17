@@ -29,11 +29,19 @@
 
 Ниже вы можете видеть примеры ответов модели и их перевод, полученный с помощью автопереводчика.
 
+------------------------------------------------------------------------------------------------
+
 PROMPT: Дараах спортын аль нь олимпийн спорт вэ? Карате, снукэр, жүдо, тай бокс, хөлбөмбөг, сагсан бөмбөг.
+
 TRUE: Карате, грек-рим, бокс, хөлбөмбөг, сагсан бөмбөг нь олимпийн спортын төрөл юм.
+
 PRED: , хөлбөмбөг, бейсбол нь улс орны спортын төрөл бөгөөд Үндэсний олимпийн хорооноос бүрдсэн зарим спортын төрөл нь карате, снукэр, жүдо юм.
+
 PROMPT: Which of the following sports is an Olympic sport? Karate, snooker, judo, Thai boxing, football, basketball.
+
 TRUE: Karate, Greco-Roman, boxing, football, and basketball are Olympic sports.
+
 PRED: , football and baseball are the country's sports, and some of the sports covered by the National Olympic Committee are karate, snooker, and judo.
 
+------------------------------------------------------------------------------------------------
 
