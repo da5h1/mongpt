@@ -45,3 +45,31 @@ PRED: , football and baseball are the country's sports, and some of the sports c
 
 ------------------------------------------------------------------------------------------------
 
+PROMPT: Би өөрийн API-ийн хугацааг багасгах ямар арга хэмжээ авч болох вэ?
+
+TRUE: API- ийн хугацааг багасгахын тулд та бүх мэдээллийн санг хадгалах, сүлжээний хүсэлтийг багасгах, эсвэл серверийн хувилбарын тоог нэмэгдүүлэх зэрэг арга хэмжээг авч болно.
+
+PRED: өөрчилж болох хугацааг багасгах олон арга байдаг. API-ийн хэрэглэгчдийн эрэлт, хэрэглэгчийн үнэлгээг өөрчлөх, тэднийг шинэчлэн мэдүүлэх, бусад хэрэглэгчдийн үйлчилгээг хэрэглээний хэрэглээний хэрэгсэл болгон ашиглах зорилгоор ашигладаг.
+
+PROMPT: What steps can I take to reduce the runtime of my API?
+
+TRUE: To reduce API latency, you can take steps to store all databases, reduce network requests, or increase the number of server instances.
+
+PRED: There are many ways to reduce the time that can be changed. The API is used to modify user requests, user ratings, update them, and use the services of other users as a means of application.
+
+------------------------------------------------------------------------------------------------
+
+PROMPT: Баскетболын хурдан завсарлага гэж юу вэ?
+
+TRUE: Баскетболын хурдан хагарал (fast break) нь бөмбөгтэй баг бөмбөгийг дамжуулах эсвэл бөмбөгийг хурдан гүйлгэж, хамгаалалтын баг нь хэвийн байрлалд орохоос өмнө бөмбөгийг хурдан олж авах зорилгоор талбайд тоглох явдал юм.
+
+PRED: хурдан завсарлага гэдэг бол тоглогч хүн, багтаа барьж байгаа тоглогч руу явахын тулд хурдан завсарлага хийх юм.
+
+PROMPT: What is a basketball fast break?
+
+TRUE: A basketball fast break is when the team with the ball passes the ball or runs the ball quickly down the court to get the ball quickly before the defensive team can get into position.
+
+PRED: a fast break is when a player makes a quick break to go to a player who is holding the ball.
+
+
+
